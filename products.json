@@ -1,0 +1,12 @@
+{
+  "ITEM003": { "name": "Milk", "price": 40 },
+  "ITEM004": { "name": "Bread", "price": 10 },
+  "1001": { "name": "Eggs", "price": 20 },
+  "1002": { "name": "Butter", "price": 6 },
+  "1003": { "name": "Cheese", "price": 50 },
+  "1004": { "name": "Jam", "price": 28 },
+  "1005": { "name": "Mango", "price": 10.5 },
+  "1006": { "name": "Luxsoap", "price": 20 },
+  "1007": { "name": "Biscuit", "price": 5 },
+  "1008": { "name": "apple", "price": 28 }
+}
